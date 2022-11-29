@@ -51,7 +51,7 @@ bannerpy3 = """
 ║FACEBOOK LINK : https://www.facebook.com/N41M01           ║    
 ║══════════════════════════════════════════════════════════║    
 ║FB PAGE LINK  : https://www.facebook.com/DEVIL.NAJMUL     ║    
-aaaaaaaaaa╚══════════════════════════════════════════════════════════╝ 
+╚══════════════════════════════════════════════════════════╝ 
 """.format(r,y,br,n,y,w,r,w,y,br,n,y,w,r,w,y,br,n,y,w,r,w,y,r,a)
 
 '''
